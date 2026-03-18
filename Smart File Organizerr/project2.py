@@ -54,3 +54,7 @@ def organize_files():
 organize_files()
 
 print("✅ Files organized successfully!")
+
+print ("Done Successfully ")
+
+setImmediate(()=>console.log("hello javascript"))
